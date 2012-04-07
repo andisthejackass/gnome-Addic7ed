@@ -1,0 +1,6 @@
+for FILENAME in $NAUTILUS_SCRIPT_SELECTED_FILE_PATHS
+do
+ xbase=${FILENAME##*/}
+ xpref=${xbase%.*}
+ firefox http://www.addic7ed.com/search.php?search=$xpref
+done
