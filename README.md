@@ -7,6 +7,7 @@ Installation
 -------------
 
 Just copy the file in command:
-	(: ~/.gnome2/nautilus-scripts/) 
+
+	 ~/.gnome2/nautilus-scripts/
 
  You'll now see an extra option when you right-click on a file ;)
